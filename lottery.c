@@ -2,6 +2,8 @@
 #include <stdlib.h>
 
 #Merge this!
+#Brand
+
 int calculate_result(int white_balls[5], int power_ball)
 {
     return 0;
