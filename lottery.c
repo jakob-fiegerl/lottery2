@@ -2,12 +2,9 @@
 #include <stdlib.h>
 
 #Merge this!
-<<<<<<< HEAD
 #Hallo Thomas
 #jakob ist der Tollste
-=======
 #Brand
->>>>>>> origin/no_boys_allowed
 
 int calculate_result(int white_balls[5], int power_ball)
 {
@@ -21,6 +18,8 @@ int main(int argc, char** argv)
         fprintf(stderr, "Usage: %s power_ball (5 white balls)\n", argv[0]);
         return -1;
     }
+    
+    #Jakob do some comments pls
 
     int power_ball = atoi(argv[1]);
 
