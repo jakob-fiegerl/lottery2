@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 #Merge this!
+#Hallo #Jakob
 
 int calculate_result(int white_balls[5], int power_ball)
 {
