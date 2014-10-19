@@ -2,8 +2,12 @@
 #include <stdlib.h>
 
 #Merge this!
+<<<<<<< HEAD
 #Hallo Thomas
 #jakob ist der Tollste
+=======
+#Brand
+>>>>>>> origin/no_boys_allowed
 
 int calculate_result(int white_balls[5], int power_ball)
 {
@@ -32,3 +36,5 @@ int main(int argc, char** argv)
 
     return 0;
 }
+
+pls
