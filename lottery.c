@@ -3,7 +3,7 @@
 
 #Merge this!
 #Hallo Thomas
-#wie gehts dir Jakob
+#jakob ist der Tollste
 
 int calculate_result(int white_balls[5], int power_ball)
 {
